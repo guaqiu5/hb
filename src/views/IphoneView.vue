@@ -10,7 +10,7 @@
               width="100%"
               height="100%"
               class="device-iframes-13"
-              src="/xhb"
+              src="/#/xhb"
             />
           </div>
         </div>
